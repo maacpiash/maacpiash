@@ -13,25 +13,14 @@ I am a
 - 🌏 Open-Source Enthusiast 
 - ✍🏽 Occasional Tech-Blogger
 
-## 🏃🏽‍♂️ Currently
+## ⌚ Current activities
 
-Working on 👨🏽‍💻
-
-- [MqFind](https://github.com/maacpiash/MqFind) 🏠 🔍
-- [KonSchool](https://github.com/maacpiash/KonSchool) 🏫 🇧🇩
-- [Cinegma](https://github.com/maacpiash/Cinegma) 🎞 🧠
-- [Prospect](https://github.com/maacpiash/Prospect) 📑 🖥
-
-Reading 📖
-
-- [The 80 Minute MBA](https://www.amazon.com.au/dp/1473673534) 💼
-- [The Rules of Thinking](https://www.amazon.com.au/dp/1292263806) 🤔
-
-Learning 💭
-
-- Webpack
-- Docker Compose
-- IdentityServer
+| Working on 👨🏽‍💻 | Reading 📖 | Learning 💭 |
+| ----------- | ----------- | ----------- |
+| [MqFind](https://github.com/maacpiash/MqFind) 🏠 🔍 | [The 80 Minute MBA](https://www.amazon.com.au/dp/1473673534) 💼 | Webpack |
+| [KonSchool](https://github.com/maacpiash/KonSchool) 🏫 🇧🇩   | [The Rules of Thinking](https://www.amazon.com.au/dp/1292263806) 🤔 | Docker Compose |
+| [Cinegma](https://github.com/maacpiash/Cinegma) 🎞 🧠 | | IdentityServer |
+| [Prospect](https://github.com/maacpiash/Prospect) 📑 🖥 | | |
 
 ## 🕚 Previously…
 
