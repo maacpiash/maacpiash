@@ -1,4 +1,4 @@
-# Shagotom!
+# Shagotom 👋🏽
 
 > (means *welcome* in Bengali)
 
@@ -12,7 +12,7 @@ I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying
 
 Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@nodejs](https://github.com/nodejs), and [@python](https://github.com/python).
 
-## ⌚ Current activities
+## ⚡ Current activities
 
 | Working on 👨🏽‍💻 | Reading 📖 | Learning 💭 |
 | ----------- | ----------- | ----------- |
