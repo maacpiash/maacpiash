@@ -2,11 +2,11 @@
 
 > (means *welcome* in Bengali)
 
-[![Website](https://img.shields.io/badge/--website?label=Website&logo=mozilla-firefox&style=social)](https://www.maacpiash.com)
-[![NPM](https://img.shields.io/badge/--npm?label=NPM&logo=npm&style=social)](https://www.npmjs.com/~maacpiash)
-[![NuGet](https://img.shields.io/badge/--nuget?label=NuGet&logo=nuget&style=social)](https://www.nuget.org/profiles/maacpiash)
-[![Repositories](https://img.shields.io/badge/--repositories?label=Repositories&logo=github&style=social)](https://github.com/maacpiash?tab=repositories)
-[![Medium](https://img.shields.io/badge/--medium?label=Blog&logo=medium&style=social)](https://www.maacpiash.com)
+[![Website](https://img.shields.io/badge/website-%23663399.svg?&style=for-the-badge&logo=gatsby)](https://www.maacpiash.com)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~maacpiash)
+[![NuGet](https://img.shields.io/badge/NuGet-%23004880?style=for-the-badge&logo=nuget)](https://www.nuget.org/profiles/maacpiash)
+[![Repositories](https://img.shields.io/badge/Repositories-%23181717?style=for-the-badge&logo=github)](https://github.com/maacpiash?tab=repositories)
+[![Blog](https://img.shields.io/badge/Blog-%232962FF?style=for-the-badge&logo=hashnode)](https://blog.maacpiash.com)
 
 I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying Master of Data Science at [Macquarie University](https://www.mq.edu.au/), NSW, Australia 🇦🇺
 
@@ -31,15 +31,17 @@ For more details, please view my resume at [pia.sh/resume](https://pia.sh/resume
 
 ## 📫 How to reach me
 
-[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social)](mailto:ahad@maacpiash.com)
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/maacpiash)
-[![View Instagram](https://img.shields.io/badge/--instagram?label=View&logo=Instagram&style=social)](https://instagram.com/maacpiash)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=Connect&logo=LinkedIn&style=social)](https://www.linkedin.com/in/maacpiash)
-[![Chat on Skype](https://img.shields.io/badge/--skype?label=Chat&logo=skype&style=social)](https://join.skype.com/invite/UVzqFuCFERPh)
-[![Chat on Telegram](https://img.shields.io/badge/--telegram?label=Message&logo=Telegram&style=social)](https://t.me/maacpiash)
+I am `@maacpiash` (almost) everywhere!
+
+[![E-Mail](https://img.shields.io/badge/Email-%230078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:ahad@maacpiash.com)
+[![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maacpiash)
+[![View Instagram](https://img.shields.io/badge/view-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maacpiash)
+[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maacpiash)
+[![Chat on Skype](https://img.shields.io/badge/chat-%2300AFF0.svg?&style=for-the-badge&logo=skype-for-business&logoColor=white)](https://join.skype.com/invite/UVzqFuCFERPh)
+[![Chat on Telegram](https://img.shields.io/badge/message-%233CB5F0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maacpiash)
 
 ## ❤️ Support my open source projects
 
-[![Sponsor on GitHub](https://img.shields.io/badge/--sponsors?label=Sponsor&logo=GitHub&style=social)](https://github.com/sponsors/maacpiash)
-[![Sponsor on Patreon](https://img.shields.io/badge/--patreon?label=Patreon&logo=Patreon&style=social)](https://patreon.com/maacpiash)
-[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/maacpiash)
+[![Sponsor on GitHub](https://img.shields.io/badge/sponsor-%23181717.svg?&style=for-the-badge&logo=github)](https://github.com/sponsors/maacpiash)
+[![Sponsor on Patreon](https://img.shields.io/badge/patreon-%23F96854.svg?&style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/maacpiash)
+[![Donate on PayPal](https://img.shields.io/badge/paypal-%2310558C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/maacpiash)
