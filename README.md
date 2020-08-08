@@ -17,12 +17,19 @@ Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@no
 
 ## ⚡ Current activities
 
-| Working on 👨🏽‍💻 | Reading 📖 | Learning 💭 |
-| ----------- | ----------- | ----------- |
-| [MqFind](https://github.com/maacpiash/MqFind) 🏠 🔍 | [The 80 Minute MBA](https://www.amazon.com.au/dp/1473673534) 💼 | Webpack |
-| [KonSchool](https://github.com/maacpiash/KonSchool) 🏫 🇧🇩   | [The Rules of Thinking](https://www.amazon.com.au/dp/1292263806) 🤔 | Docker Compose |
-| [Cinegma](https://github.com/maacpiash/Cinegma) 🎞 🧠 | [AI Superpowers](https://www.amazon.com.au/dp/B07G8JBRF7) 🚀 | IdentityServer |
-| [Prospect](https://github.com/maacpiash/Prospect) 📑 🖥
+### Working on 👨🏽‍💻
+
+[![MqFind](https://github-readme-stats.vercel.app/api/pin/?username=maacpiash&repo=MqFind)](https://github.com/maacpiash/MqFind)
+
+### Reading 📖
+
+[The 80 Minute MBA](https://www.amazon.com.au/dp/1473673534)
+
+### Learning 💭
+
+- [Webpack](https://github.com/webpack/webpack)
+- [Docker Compose](https://github.com/docker/compose)
+- [IdentityServer](https://github.com/IdentityServer/IdentityServer4)
 
 ## 🕚 Previously…
 
