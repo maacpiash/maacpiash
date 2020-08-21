@@ -8,7 +8,7 @@
 [![Repositories](https://img.shields.io/badge/Repositories-%23181717?style=for-the-badge&logo=github)](https://github.com/maacpiash?tab=repositories)
 [![Blog](https://img.shields.io/badge/Blog-%232962FF?style=for-the-badge&logo=hashnode)](https://blog.maacpiash.com)
 
-I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying Master of Data Science at [Macquarie University](https://www.mq.edu.au/), NSW, Australia 🇦🇺 and a Full Stack Developer Intern at [SAM.Coach](https://sam.coach). 
+I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying Master of Data Science at [Macquarie University](https://www.mq.edu.au/), New South Wales, Australia 🇦🇺. 
 
 Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@nodejs](https://github.com/nodejs), and [@python](https://github.com/python).
 
