@@ -33,9 +33,9 @@ Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@no
 
 ## 🕚 Previously…
 
-- **🏢 Feb 2019 - Jan 2020**: Worked at [Dynamic Solution Innovators Ltd.](http://dsinnovators.com), Dhaka, on the [OpenCRVS](https://github.com/opencrvs/opencrvs-core) project and the enterprise solution of [Olwel](https://olwel.com), using [React](https://github.com/facebook/react) and [Hapi](https://github.com/hapijs/hapi).
-- **💻 Nov 2016 - Mar 2018**: Worked part-time for [DESM, North South University](http://www.northsouth.edu/academic/shls/esm/), Dhaka, on a research project ([relevant news article](http://www.ipsnews.net/2017/05/flying-green-in-bangladesh/)). Used [Windows Forms](https://github.com/dotnet/winforms) here.
-- **🎒 Jan 2014 - Aug 2018**: Studied CSE at [North South University](http://www.northsouth.edu), Dhaka, and got a BSc degree.
+- **🏢 Feb 2019 - Jan 2020**: Worked full-time as a **Junior Software Engineer** at [**Dynamic Solution Innovators Ltd.**](http://dsinnovators.com), Dhaka. Projects I worked on are the [OpenCRVS](https://github.com/opencrvs/opencrvs-core) project and the enterprise solution of [Olwel](https://olwel.com). Used [React](https://github.com/facebook/react) and [Hapi](https://github.com/hapijs/hapi) on the full-stack web applications.
+- **💻 Nov 2016 - Apr 2018**: Worked part-time as a **Research Assistant** at [**DESM, North South University**](http://www.northsouth.edu/academic/shls/esm/), Dhaka, on a research project ([relevant news article](http://www.ipsnews.net/2017/05/flying-green-in-bangladesh/)). Used [Windows Forms](https://github.com/dotnet/winforms) to develop the client-side software of *NODES*, an airline management system.
+- **🎒 Jan 2014 - Aug 2018**: Studied Computer Science and Engineering at [North South University](http://www.northsouth.edu), Dhaka, and got a Bachelor of Science degree.
 
 For more details, please view my resume at [pia.sh/resume](https://pia.sh/resume).
 
