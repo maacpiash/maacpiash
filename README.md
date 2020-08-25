@@ -13,7 +13,7 @@ I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying
 Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@nodejs](https://github.com/nodejs), and [@python](https://github.com/python).
 
 ![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true)
-![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook&layout=compact&hide_border=true)
+![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html&layout=compact&hide_border=true)
 
 ## ⚡ Current activities
 
