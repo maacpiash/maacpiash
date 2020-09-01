@@ -7,6 +7,7 @@
 [![NuGet](https://img.shields.io/badge/NuGet-%23004880?style=for-the-badge&logo=nuget)](https://www.nuget.org/profiles/maacpiash)
 [![Repositories](https://img.shields.io/badge/Repositories-%23181717?style=for-the-badge&logo=github)](https://github.com/maacpiash?tab=repositories)
 [![Blog](https://img.shields.io/badge/Blog-%232962FF?style=for-the-badge&logo=hashnode)](https://blog.maacpiash.com)
+[![View photos on Flickr](https://img.shields.io/badge/photos-%230063DC.svg?&style=for-the-badge&logo=flickr&logoColor=white)](https://www.flickr.com/photos/maacpiash/)
 
 I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying Master of Data Science at [Macquarie University](https://www.mq.edu.au/), New South Wales, Australia 🇦🇺. 
 
