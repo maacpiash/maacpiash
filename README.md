@@ -27,6 +27,7 @@ Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@no
 
 ### Learning 💭
 
+- [Vue.js](https://github.com/vuejs/vue)
 - [Webpack](https://github.com/webpack/webpack)
 - [Docker Compose](https://github.com/docker/compose)
 - [IdentityServer](https://github.com/IdentityServer/IdentityServer4)
