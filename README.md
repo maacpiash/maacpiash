@@ -42,6 +42,12 @@ Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@no
 
 For more details, please view my resume at [pia.sh/resume](https://pia.sh/resume).
 
+## 😁 Fun facts about me
+
+I know the value of pi (π) up to 60 decimal places. I also know the names and the symbols of all the elements, along with their positions in the periodic table.
+
+*I'm a nerd, I know!*
+
 ## 📫 How to reach me
 
 I am [`@maacpiash`](https://maacpia.sh) (almost) everywhere!
