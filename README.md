@@ -14,7 +14,7 @@ I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying
 Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@nodejs](https://github.com/nodejs), and [@python](https://github.com/python).
 
 ![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true)
-![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html&layout=compact&hide_border=true&langs_count=8)
+![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html&layout=compact&hide_border=true&langs_count=10)
 
 ## ⚡ Current activities
 
@@ -52,7 +52,7 @@ I know the value of pi (π) up to 60 decimal places. I also know the names and t
 
 I am [`@maacpiash`](https://maacpia.sh) (almost) everywhere!
 
-[![E-Mail](https://img.shields.io/badge/Email-%230078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:ahad@maacpiash.com)
+[![E-Mail](https://img.shields.io/badge/Email-%230078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:github@maacpiash.com)
 [![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maacpiash)
 [![View Instagram](https://img.shields.io/badge/view-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maacpiash)
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maacpiash)
