@@ -7,14 +7,14 @@
 [![NuGet](https://img.shields.io/badge/NuGet-%23004880?style=for-the-badge&logo=nuget)](https://www.nuget.org/profiles/maacpiash)
 [![Repositories](https://img.shields.io/badge/Repositories-%23181717?style=for-the-badge&logo=github)](https://github.com/maacpiash?tab=repositories)
 [![Blog](https://img.shields.io/badge/Blog-%232962FF?style=for-the-badge&logo=hashnode)](https://blog.maacpiash.com)
-[![View photos on Flickr](https://img.shields.io/badge/photos-%230063DC.svg?&style=for-the-badge&logo=flickr&logoColor=white)](https://www.flickr.com/photos/maacpiash/)
+[![Photos](https://img.shields.io/badge/photos-%230063DC.svg?&style=for-the-badge&logo=flickr&logoColor=white)](https://www.flickr.com/photos/maacpiash/)
 
-I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying Master of Data Science at [Macquarie University](https://www.mq.edu.au/), New South Wales, Australia 🇦🇺. 
+I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying Master of Data Science at [Macquarie University](https://www.mq.edu.au/), Sydney, Australia 🇦🇺. 
 
 Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@nodejs](https://github.com/nodejs), and [@python](https://github.com/python).
 
 ![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true)
-![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html&layout=compact&hide_border=true&langs_count=10)
+![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html,css&layout=compact&hide_border=true&langs_count=8)
 
 ## ⚡ Current activities
 
@@ -36,7 +36,7 @@ Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@no
 
 ## 🕚 Previously…
 
-- **🏢 Feb 2019 - Jan 2020**: Worked full-time as a **Junior Software Engineer** at [**Dynamic Solution Innovators Ltd.**](http://dsinnovators.com), Dhaka. Projects I worked on are the [OpenCRVS](https://github.com/opencrvs/opencrvs-core) project and the enterprise solution of [Olwel](https://olwel.com). Used [React](https://github.com/facebook/react) and [Hapi](https://github.com/hapijs/hapi) on the full-stack web applications.
+- **🏢 Feb 2019 - Jan 2020**: Worked full-time as a **Junior Software Engineer** at [**Dynamic Solution Innovators Ltd.**](http://dsinnovators.com), Dhaka. Projects I worked on are the [OpenCRVS](https://github.com/opencrvs/opencrvs-core) project and the enterprise solution of [Olwel](https://olwel.com), both are full-stack web applications developed with [React](https://github.com/facebook/react) and [Hapi](https://github.com/hapijs/hapi).
 - **💻 Nov 2016 - Apr 2018**: Worked part-time as a **Research Assistant** at [**DESM, North South University**](http://www.northsouth.edu/academic/shls/esm/), Dhaka, on a research project ([relevant news article](http://www.ipsnews.net/2017/05/flying-green-in-bangladesh/)). Used [Windows Forms](https://github.com/dotnet/winforms) to develop the client-side software of *NODES*, an airline management system.
 - **🎒 Jan 2014 - Aug 2018**: Studied **Computer Science and Engineering** at [**North South University**](http://www.northsouth.edu), Dhaka, and got a **Bachelor of Science** degree.
 
@@ -61,6 +61,5 @@ I am [`@maacpiash`](https://maacpia.sh) (almost) everywhere!
 
 ## ❤️ Support my open source projects
 
-[![Sponsor on GitHub](https://img.shields.io/badge/sponsor-%23181717.svg?&style=for-the-badge&logo=github)](https://github.com/sponsors/maacpiash)
 [![Sponsor on Patreon](https://img.shields.io/badge/patreon-%23F96854.svg?&style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/maacpiash)
 [![Donate on PayPal](https://img.shields.io/badge/paypal-%2310558C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/maacpiash)
