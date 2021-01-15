@@ -13,15 +13,15 @@ I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying
 
 Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@nodejs](https://github.com/nodejs), and [@python](https://github.com/python).
 
-![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true)
-![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html,css&layout=compact&hide_border=true&langs_count=8)
+![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true&theme=dark)
+![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html,css&layout=compact&hide_border=true&langs_count=8&theme=dark)
 
 ## ⚡ Current activities
 
 ### Working on 👨🏽‍💻
 
-[![KonSchool](https://github-readme-stats.vercel.app/api/pin/?username=maacpiash&repo=KonSchool)](https://github.com/maacpiash/KonSchool)
-[![Prospect](https://github-readme-stats.vercel.app/api/pin/?username=maacpiash&repo=Prospect)](https://github.com/maacpiash/Prospect)
+[![KonSchool](https://github-readme-stats.vercel.app/api/pin/?username=maacpiash&repo=KonSchool&theme=dark)](https://github.com/maacpiash/KonSchool)
+[![Prospect](https://github-readme-stats.vercel.app/api/pin/?username=maacpiash&repo=Prospect&theme=dark)](https://github.com/maacpiash/Prospect)
 
 ### Reading 📖
 
