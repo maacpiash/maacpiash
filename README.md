@@ -20,8 +20,8 @@ Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@no
 
 ### Working on 👨🏽‍💻
 
-[![KonSchool](https://github-readme-stats.vercel.app/api/pin/?username=maacpiash&repo=KonSchool&theme=dark)](https://github.com/maacpiash/KonSchool)
-[![Prospect](https://github-readme-stats.vercel.app/api/pin/?username=maacpiash&repo=Prospect&theme=dark)](https://github.com/maacpiash/Prospect)
+[![KonSchool](https://github-readme-stats.vercel.app/api/pin/?username=maacpiash&repo=KonSchool&theme=dark&hide_border=true)](https://github.com/maacpiash/KonSchool)
+[![Prospect](https://github-readme-stats.vercel.app/api/pin/?username=maacpiash&repo=Prospect&theme=dark&hide_border=true)](https://github.com/maacpiash/Prospect)
 
 ### Reading 📖
 
