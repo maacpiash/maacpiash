@@ -15,6 +15,7 @@ Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@no
 
 ![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true&theme=dark)
 ![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html,css&layout=compact&hide_border=true&langs_count=8&theme=dark)
+[![Ahad's GitHub trophies](https://github-profile-trophy.vercel.app/?username=maacpiash&no-bg=true&row=2&col=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ⚡ Current activities
 
