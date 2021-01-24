@@ -64,3 +64,4 @@ I am [`@maacpiash`](https://maacpia.sh) (almost) everywhere!
 
 [![Sponsor on Patreon](https://img.shields.io/badge/patreon-%23F96854.svg?&style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/maacpiash)
 [![Donate on PayPal](https://img.shields.io/badge/paypal-%2310558C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/maacpiash)
+[![Buy me a coffee](https://img.shields.io/badge/coffee-%235f7fff.svg?&style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/maacpiash)
