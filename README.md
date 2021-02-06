@@ -53,7 +53,7 @@ I know the value of pi (π) up to 60 decimal places. I also know the names and t
 
 I am [`@maacpiash`](https://maacpia.sh) (almost) everywhere!
 
-[![E-Mail](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:github@maacpiash.com)
+[![E-Mail](https://img.shields.io/badge/Email-840010?style=for-the-badge&logo=tutanota)](mailto:github@maacpiash.com)
 [![Follow on Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maacpiash)
 [![View Instagram](https://img.shields.io/badge/view-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maacpiash)
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-0077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maacpiash)
