@@ -19,21 +19,9 @@ Most of my work is based on or around [@dotnet](https://github.com/dotnet), [@no
 
 ## ⚡ Current activities
 
-### Working on 👨🏽‍💻
-
-[![KonSchool](https://github-readme-stats.vercel.app/api/pin/?username=maacpiash&repo=KonSchool&theme=dark&hide_border=true)](https://github.com/maacpiash/KonSchool)
-[![Prospect](https://github-readme-stats.vercel.app/api/pin/?username=maacpiash&repo=Prospect&theme=dark&hide_border=true)](https://github.com/maacpiash/Prospect)
-
-### Reading 📖
-
-[The 80 Minute MBA](https://www.amazon.com.au/dp/1473673534)
-
-### Learning 💭
-
-- [Vue.js](https://github.com/vuejs/vue)
-- [Webpack](https://github.com/webpack/webpack)
-- [Docker Compose](https://github.com/docker/compose)
-- [IdentityServer](https://github.com/IdentityServer/IdentityServer4)
+- **👨🏽‍💻 Working on** [KonSchool](https://github.com/maacpiash/KonSchool) and [back-to-the-basics](https://github.com/maacpiash/back-to-the-basics)
+- **📖 Reading** [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.au/dp/0132350882)
+- **💭 Learning** [Kubernetes](https://github.com/kubernetes/kubernetes)
 
 ## 🕚 Previously…
 
