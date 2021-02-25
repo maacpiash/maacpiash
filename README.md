@@ -73,11 +73,12 @@ Programming languages, frameworks, libraries, tools, platforms, and other techno
 ![WPF](https://img.shields.io/badge/WPF-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![UWP](https://img.shields.io/badge/UWP-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=xamarin&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Azure App Service](https://img.shields.io/badge/Azure%20App%20Service-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 ![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white)
 ![AppVeyor](https://img.shields.io/badge/AppVeyor-00B3E0?style=flat-square&logo=appveyor&logoColor=white)
@@ -103,9 +104,9 @@ For more details, please view my resume at [pia.sh/resume](https://pia.sh/resume
 
 ## 😁 Fun facts about me
 
-I know the value of pi (π) up to 60 decimal places. I also know the names and the symbols of all the elements, along with their positions in the periodic table.
+I know the value of pi (π) up to 60 decimal places. I also know the names and the symbols of all the elements, along with their positions in the periodic table. Moreover, I can name all 64 [districts of Bangladesh](https://en.wikipedia.org/wiki/Districts_of_Bangladesh).
 
-*I'm a nerd, I know!*
+*I'm a huge nerd, I know!*
 
 ## 📫 How to reach me
 
