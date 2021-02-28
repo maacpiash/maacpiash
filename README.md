@@ -25,8 +25,7 @@ I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying
 
 ### Specifics
 
-<img height="30px" width="30px" src="./images/Languages/Csharp.svg" alt="Csharp">
-<img height="30px" width="30px" src="./images/Languages/JavaScript.svg" alt="JavaScript">
+<img height="30px" width="30px" src="./images/Languages/Csharp.svg" alt="Csharp"> <img height="30px" width="30px" src="./images/Languages/JavaScript.svg" alt="JavaScript">
 <img height="30px" width="30px" src="./images/Languages/TypeScript.svg" alt="TypeScript">
 <img height="30px" width="30px" src="./images/Languages/Python.svg" alt="Python">
 <img height="30px" width="30px" src="./images/Languages/C.svg" alt="C">
