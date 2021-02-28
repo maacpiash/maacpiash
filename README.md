@@ -25,68 +25,64 @@ I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying
 
 ### Specifics
 
-Programming languages, frameworks, libraries, tools, platforms, and other technologies.
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![IdentityServer](https://img.shields.io/badge/IdentityServer-F78C40?style=flat-square&logo=openid&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Hapi.js](https://img.shields.io/badge/Hapi.js-F79727?style=flat-square&logo=node.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
-![HTML 5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS 3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Web Components](https://img.shields.io/badge/Web%20Components-29ABE2?style=flat-square&logo=webcomponents.org&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux.js](https://img.shields.io/badge/-Redux.js-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular (2+)](https://img.shields.io/badge/-Angular%20(2%2B)-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![ML.NET](https://img.shields.io/badge/ML.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![RethinkDB](https://img.shields.io/badge/RethinkDB-339933?style=flat-square&logo=node.js&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=flat-square&logo=windows&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0078D6?style=flat-square&logo=windows&logoColor=white)
-![UWP](https://img.shields.io/badge/UWP-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Azure App Service](https://img.shields.io/badge/Azure%20App%20Service-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
-![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white)
-![AppVeyor](https://img.shields.io/badge/AppVeyor-00B3E0?style=flat-square&logo=appveyor&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=linode&logoColor=white)
-![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white)
+<img height="30px" width="30px" src="./images/Languages/Csharp.svg" alt="Csharp">
+<img height="30px" width="30px" src="./images/Languages/JavaScript.svg" alt="JavaScript">
+<img height="30px" width="30px" src="./images/Languages/TypeScript.svg" alt="TypeScript">
+<img height="30px" width="30px" src="./images/Languages/Python.svg" alt="Python">
+<img height="30px" width="30px" src="./images/Languages/C.svg" alt="C">
+<img height="30px" width="30px" src="./images/Languages/Java.svg" alt="Java">
+<img height="30px" width="30px" src="./images/Languages/Cpp.svg" alt="C++">
+<img height="30px" width="30px" src="./images/Languages/R.svg" alt="R">
+<img height="30px" width="30px" src="./images/Web/dotNETbot.svg" alt=".NET Core">
+<img height="30px" width="30px" src="./images/Web/ASP.NET-Core.png" alt="ASP.NET Core">
+<img height="30px" width="30px" src="./images/Web/EF-Core.png" alt="Entity Framework Core">
+<img height="30px" width="30px" src="./images/Web/IdentityServer.svg" alt="IdentityServer">
+<img height="30px" width="30px" src="./images/Web/Blazor.svg" alt="Blazor">
+<img height="30px" width="30px" src="./images/Web/Express.js.svg" alt="Express.js">
+<img height="30px" width="30px" src="./images/Web/Nest.js.svg" alt="Nest.js">
+<img height="30px" width="30px" src="./images/Web/Swagger.svg" alt="Swagger">
+<img height="30px" width="30px" src="./images/Web/HTML5.svg" alt="HTML5">
+<img height="30px" width="30px" src="./images/Web/CSS3.svg" alt="CSS3">
+<img height="30px" width="30px" src="./images/Web/Bootstrap.svg" alt="Bootstrap">
+<img height="30px" width="30px" src="./images/Web/Web%20Components.svg" alt="Web Components">
+<img height="30px" width="30px" src="./images/Web/React.js.svg" alt="React.js">
+<img height="30px" width="30px" src="./images/Web/Next.js.svg" alt="Next.js">
+<img height="30px" width="30px" src="./images/Web/Redux.js.svg" alt="Redux.js">
+<img height="30px" width="30px" src="./images/Web/React%20Router.svg" alt="React Router">
+<img height="30px" width="30px" src="./images/Web/Styled%20Components.svg" alt="Styled Components">
+<img height="30px" width="30px" src="./images/Web/Material-UI.svg" alt="Material UI">
+<img height="30px" width="30px" src="./images/Web/Vue.js.svg" alt="Vue.js">
+<img height="30px" width="30px" src="./images/Web/Angular.svg" alt="Angular">
+<img height="30px" width="30px" src="./images/Web/Webpack.svg" alt="Webpack">
+<img height="30px" width="30px" src="./images/Web/GraphQL.svg" alt="GraphQL">
+<img height="30px" width="30px" src="./images/Web/Socket.IO.svg" alt="Socket.IO">
+<img height="30px" width="30px" src="./images/Web/Jest.svg" alt="Jest">
+<img height="30px" width="30px" src="./images/ML/Jupyter%20Notebook.svg" alt="Jupyter Notebook">
+<img height="30px" width="30px" src="./images/ML/NumPy.svg" alt="NumPy">
+<img height="30px" width="30px" src="./images/ML/Pandas.svg" alt="Pandas">
+<img height="30px" width="30px" src="./images/ML/Scikit%20Learn.svg" alt="Scikit Learn">
+<img height="30px" width="30px" src="./images/ML/ML.NET-Logo.wine.svg" alt="ML.NET">
+<img height="30px" width="30px" src="./images/DB/MongoDB.svg" alt="MongoDB">
+<img height="30px" width="30px" src="./images/DB/PostgreSQL.svg" alt="PostgreSQL">
+<img height="30px" width="30px" src="./images/DB/Microsoft%20SQL%20Server.svg" alt="Microsoft SQL Server">
+<img height="30px" width="30px" src="./images/DB/SQLite.svg" alt="SQLite">
+<img height="30px" width="30px" src="./images/Desktop/Windows.svg" alt="Windows Forms, WPF">
+<img height="30px" width="30px" src="./images/Desktop/UWP.svg" alt="UWP">
+<img height="30px" width="30px" src="./images/Desktop/Xamarin.svg" alt="Xamarin">
+<img height="30px" width="30px" src="./images/Desktop/Electron.js.svg" alt="Electron.js">
+<img height="30px" width="30px" src="./images/DevOps/Git.svg" alt="Git">
+<img height="30px" width="30px" src="./images/DevOps/Bash.svg" alt="Bash">
+<img height="30px" width="30px" src="./images/DevOps/Docker.svg" alt="Docker">
+<img height="30px" width="30px" src="./images/DevOps/GitHub%20Actions.svg" alt="GitHub Actions">
+<img height="30px" width="30px" src="./images/DevOps/Azure%20DevOps.svg" alt="Azure DevOps">
+<img height="30px" width="30px" src="./images/DevOps/Travis%20CI.svg" alt="Travis CI">
+<img height="30px" width="30px" src="./images/DevOps/AppVeyor.svg" alt="AppVeyor">
+<img height="30px" width="30px" src="./images/DevOps/Heroku.svg" alt="Heroku">
+<img height="30px" width="30px" src="./images/DevOps/Netlify.svg" alt="Netlify">
+<img height="30px" width="30px" src="./images/DevOps/MicrosoftAzure.svg" alt="Microsoft Azure">
+<img height="30px" width="30px" src="./images/DevOps/DigitalOcean.svg" alt="DigitalOcean">
+<img height="30px" width="30px" src="./images/DevOps/Linode.svg" alt="Linode">
+<img height="30px" width="30px" src="./images/DevOps/Vultr.svg" alt="Vultr">
 
 ## ⚡ Current activities
 
