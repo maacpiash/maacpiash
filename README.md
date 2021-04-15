@@ -64,7 +64,8 @@ I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying
 
 ### 📖 Reading
 
-[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.au/dp/0132350882)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.au/dp/0132350882) by Robert C. Martin
+- [The Rules of Thinking: A personal code to think yourself smarter, wiser and happier](https://www.amazon.com.au/dp/1292263806) by Richard Templar
 
 ### 💭 Learning
 
