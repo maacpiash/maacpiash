@@ -85,9 +85,27 @@ I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying
 
 ## ⚡ Current activities
 
-- **👨🏽‍💻 Working on** [KonSchool](https://github.com/maacpiash/KonSchool) and [back-to-the-basics](https://github.com/maacpiash/back-to-the-basics)
-- **📖 Reading** [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.au/dp/0132350882)
-- **💭 Learning** [Kubernetes](https://github.com/kubernetes/kubernetes)
+### 👨🏽‍💻 Working on
+
+- [`maacpiash/KonSchool`](https://github.com/maacpiash/KonSchool)
+  - Add school-information page to the client app
+  - Add `localStorage` functionalities to the client app
+  - Add l10n to the client app
+  - Add support for MessagePack and GraphQL to the Schools API
+- [`sadiagroup/website`](https://github.com/sadiagroup/website)
+  - Fix linting and formatting
+  - Add tests and coverage
+- [`maacpiash/back-to-the-basics`](https://github.com/maacpiash/back-to-the-basics)
+  - Just experimenting 🤷🏽‍♂️
+
+### 📖 Reading
+
+[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.au/dp/0132350882)
+
+### 💭 Learning
+
+- [Kubernetes](https://github.com/kubernetes/kubernetes)
+- [nginx](https://github.com/nginx/nginx)
 
 ## 🕚 Previously…
 
