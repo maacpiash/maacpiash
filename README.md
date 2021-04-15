@@ -25,63 +25,27 @@ I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying
 
 ### Specifics
 
-<img height="30px" width="30px" src="./images/Languages/Csharp.svg" alt="Csharp"> <img height="30px" width="30px" src="./images/Languages/JavaScript.svg" alt="JavaScript">
-<img height="30px" width="30px" src="./images/Languages/TypeScript.svg" alt="TypeScript">
-<img height="30px" width="30px" src="./images/Languages/Python.svg" alt="Python">
-<img height="30px" width="30px" src="./images/Languages/C.svg" alt="C">
-<img height="30px" width="30px" src="./images/Languages/Java.svg" alt="Java">
-<img height="30px" width="30px" src="./images/Languages/Cpp.svg" alt="C++">
-<img height="30px" width="30px" src="./images/Languages/R.svg" alt="R">
-<img height="30px" width="30px" src="./images/Web/dotNETbot.svg" alt=".NET Core">
-<img height="30px" width="30px" src="./images/Web/ASP.NET-Core.png" alt="ASP.NET Core">
-<img height="30px" width="30px" src="./images/Web/EF-Core.png" alt="Entity Framework Core">
-<img height="30px" width="30px" src="./images/Web/IdentityServer.svg" alt="IdentityServer">
-<img height="30px" width="30px" src="./images/Web/Blazor.svg" alt="Blazor">
-<img height="30px" width="30px" src="./images/Web/Express.js.svg" alt="Express.js">
-<img height="30px" width="30px" src="./images/Web/Nest.js.svg" alt="Nest.js">
-<img height="30px" width="30px" src="./images/Web/Swagger.svg" alt="Swagger">
-<img height="30px" width="30px" src="./images/Web/HTML5.svg" alt="HTML5">
-<img height="30px" width="30px" src="./images/Web/CSS3.svg" alt="CSS3">
-<img height="30px" width="30px" src="./images/Web/Bootstrap.svg" alt="Bootstrap">
-<img height="30px" width="30px" src="./images/Web/Web%20Components.svg" alt="Web Components">
-<img height="30px" width="30px" src="./images/Web/React.js.svg" alt="React.js">
-<img height="30px" width="30px" src="./images/Web/Next.js.svg" alt="Next.js">
-<img height="30px" width="30px" src="./images/Web/Redux.js.svg" alt="Redux.js">
-<img height="30px" width="30px" src="./images/Web/React%20Router.svg" alt="React Router">
-<img height="30px" width="30px" src="./images/Web/Styled%20Components.svg" alt="Styled Components">
-<img height="30px" width="30px" src="./images/Web/Material-UI.svg" alt="Material UI">
-<img height="30px" width="30px" src="./images/Web/Vue.js.svg" alt="Vue.js">
-<img height="30px" width="30px" src="./images/Web/Angular.svg" alt="Angular">
-<img height="30px" width="30px" src="./images/Web/Webpack.svg" alt="Webpack">
-<img height="30px" width="30px" src="./images/Web/GraphQL.svg" alt="GraphQL">
-<img height="30px" width="30px" src="./images/Web/Socket.IO.svg" alt="Socket.IO">
-<img height="30px" width="30px" src="./images/Web/Jest.svg" alt="Jest">
-<img height="30px" width="30px" src="./images/ML/Jupyter%20Notebook.svg" alt="Jupyter Notebook">
-<img height="30px" width="30px" src="./images/ML/NumPy.svg" alt="NumPy">
-<img height="30px" width="30px" src="./images/ML/Pandas.svg" alt="Pandas">
-<img height="30px" width="30px" src="./images/ML/Scikit%20Learn.svg" alt="Scikit Learn">
-<img height="30px" width="30px" src="./images/ML/ML.NET-Logo.wine.svg" alt="ML.NET">
-<img height="30px" width="30px" src="./images/DB/MongoDB.svg" alt="MongoDB">
-<img height="30px" width="30px" src="./images/DB/PostgreSQL.svg" alt="PostgreSQL">
-<img height="30px" width="30px" src="./images/DB/Microsoft%20SQL%20Server.svg" alt="Microsoft SQL Server">
-<img height="30px" width="30px" src="./images/DB/SQLite.svg" alt="SQLite">
-<img height="30px" width="30px" src="./images/Desktop/Windows.svg" alt="Windows Forms, WPF">
-<img height="30px" width="30px" src="./images/Desktop/UWP.svg" alt="UWP">
-<img height="30px" width="30px" src="./images/Desktop/Xamarin.svg" alt="Xamarin">
-<img height="30px" width="30px" src="./images/Desktop/Electron.js.svg" alt="Electron.js">
-<img height="30px" width="30px" src="./images/DevOps/Git.svg" alt="Git">
-<img height="30px" width="30px" src="./images/DevOps/Bash.svg" alt="Bash">
+<img height="30px" width="30px" src="./images/Languages/Csharp.svg" alt="Csharp"> <img height="30px" width="30px" src="./images/Languages/JavaScript.svg" alt="JavaScript"> <img height="30px" width="30px" src="./images/Languages/TypeScript.svg" alt="TypeScript"> <img height="30px" width="30px" src="./images/Languages/Python.svg" alt="Python"> <img height="30px" width="30px" src="./images/Languages/C.svg" alt="C"> <img height="30px" width="30px" src="./images/Languages/Java.svg" alt="Java"> <img height="30px" width="30px" src="./images/Languages/Cpp.svg" alt="C++"> <img height="30px" width="30px" src="./images/Languages/R.svg" alt="R">
+<br/>
+<img height="30px" width="30px" src="./images/Web/ASP.NET-Core.png" alt="ASP.NET Core"> <img height="30px" width="30px" src="./images/Web/EF-Core.png" alt="Entity Framework Core"> <img height="30px" width="30px" src="./images/Web/IdentityServer.svg" alt="IdentityServer"> <img height="30px" width="30px" src="./images/Web/Express.js.svg" alt="Express.js"> <img height="30px" width="30px" src="./images/Web/Nest.js.svg" alt="Nest.js"> <img height="30px" width="30px" src="./images/Web/Swagger.svg" alt="Swagger"> <img height="30px" width="30px" src="./images/Web/GraphQL.svg" alt="GraphQL"> <img height="30px" width="30px" src="./images/Web/Socket.IO.svg" alt="Socket.IO">
+<br/>
+<img height="30px" width="30px" src="./images/Web/HTML5.svg" alt="HTML5"> <img height="30px" width="30px" src="./images/Web/CSS3.svg" alt="CSS3"> <img height="30px" width="30px" src="./images/Web/Bootstrap.svg" alt="Bootstrap"> <img height="30px" width="30px" src="./images/Web/Web%20Components.svg" alt="Web Components"> <img height="30px" width="30px" src="./images/Web/React.js.svg" alt="React.js"> <img height="30px" width="30px" src="./images/Web/Redux.js.svg" alt="Redux.js"> <img height="30px" width="30px" src="./images/Web/React%20Router.svg" alt="React Router"> <img height="30px" width="30px" src="./images/Web/Next.js.svg" alt="Next.js">
+<br/>
+<img height="30px" width="30px" src="./images/Web/Styled%20Components.svg" alt="Styled Components"> <img height="30px" width="30px" src="./images/Web/Material-UI.svg" alt="Material UI"> <img height="30px" width="30px" src="./images/Web/Blazor.svg" alt="Blazor"> <img height="30px" width="30px" src="./images/Web/Angular.svg" alt="Angular"> <img height="30px" width="30px" src="./images/Web/Vue.js.svg" alt="Vue.js"> <img height="30px" width="30px" src="./images/Web/Webpack.svg" alt="Webpack"> <img height="30px" width="30px" src="./images/Web/Jest.svg" alt="Jest"> <img height="30px" width="30px" src="./images/Web/ESLint.svg" alt="ESLint">
+<br/>
+<img height="30px" width="30px" src="./images/ML/Jupyter%20Notebook.svg" alt="Jupyter Notebook"> <img height="30px" width="30px" src="./images/ML/NumPy.svg" alt="NumPy"> <img height="30px" width="30px" src="./images/ML/Pandas.svg" alt="Pandas"> <img height="30px" width="30px" src="./images/ML/Scikit%20Learn.svg" alt="Scikit Learn"> <img height="30px" width="30px" src="./images/ML/ML.NET-Logo.wine.svg" alt="ML.NET">
+<br/>
+<img height="30px" width="30px" src="./images/DB/MongoDB.svg" alt="MongoDB"> <img height="30px" width="30px" src="./images/DB/PostgreSQL.svg" alt="PostgreSQL"> <img height="30px" width="30px" src="./images/DB/Microsoft%20SQL%20Server.svg" alt="Microsoft SQL Server"> <img height="30px" width="30px" src="./images/DB/SQLite.svg" alt="SQLite"> <img height="30px" width="30px" src="./images/Desktop/Windows.svg" alt="Windows Forms, WPF"> <img height="30px" width="30px" src="./images/Desktop/UWP.svg" alt="UWP">
+<img height="30px" width="30px" src="./images/Desktop/Xamarin.svg" alt="Xamarin"> <img height="30px" width="30px" src="./images/Desktop/Electron.js.svg" alt="Electron.js">
+<br/>
 <img height="30px" width="30px" src="./images/DevOps/Docker.svg" alt="Docker">
 <img height="30px" width="30px" src="./images/DevOps/GitHub%20Actions.svg" alt="GitHub Actions">
-<img height="30px" width="30px" src="./images/DevOps/Azure%20DevOps.svg" alt="Azure DevOps">
 <img height="30px" width="30px" src="./images/DevOps/Travis%20CI.svg" alt="Travis CI">
 <img height="30px" width="30px" src="./images/DevOps/AppVeyor.svg" alt="AppVeyor">
 <img height="30px" width="30px" src="./images/DevOps/Heroku.svg" alt="Heroku">
 <img height="30px" width="30px" src="./images/DevOps/Netlify.svg" alt="Netlify">
 <img height="30px" width="30px" src="./images/DevOps/MicrosoftAzure.svg" alt="Microsoft Azure">
-<img height="30px" width="30px" src="./images/DevOps/DigitalOcean.svg" alt="DigitalOcean">
 <img height="30px" width="30px" src="./images/DevOps/Linode.svg" alt="Linode">
-<img height="30px" width="30px" src="./images/DevOps/Vultr.svg" alt="Vultr">
 
 ## ⚡ Current activities
 
