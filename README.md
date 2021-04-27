@@ -9,7 +9,10 @@
 [![Blog](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode)](https://blog.maacpiash.com)
 [![Photos](https://img.shields.io/badge/photos-0063DC.svg?&style=for-the-badge&logo=flickr&logoColor=white)](https://www.flickr.com/photos/maacpiash/)
 
-I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — studying Master of Data Science at [Macquarie University](https://www.mq.edu.au/), Sydney, Australia 🇦🇺.
+I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — currently living in Sydney, Australia 🇦🇺
+
+- working part-time as a Software Engineer at [Apollo International](https://www.apollointl.com.au)
+- studying Master of Data Science at [Macquarie University](https://www.mq.edu.au/)
 
 ![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true&theme=dark)
 ![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html,css&layout=compact&hide_border=true&langs_count=8&theme=dark)
