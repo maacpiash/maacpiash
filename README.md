@@ -102,6 +102,7 @@ I am [`@maacpiash`](https://maacpia.sh) (almost) everywhere!
 
 ## ❤️ Support my open source projects
 
+[![Sponsor on Patreon](https://img.shields.io/badge/sponsors-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/maacpiash)
 [![Sponsor on Patreon](https://img.shields.io/badge/patreon-F96854.svg?&style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/maacpiash)
 [![Donate on PayPal](https://img.shields.io/badge/paypal-10558C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/maacpiash)
 [![Buy me a coffee](https://img.shields.io/badge/coffee-5f7fff.svg?&style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/maacpiash)
