@@ -14,9 +14,8 @@ I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — currentl
 - working part-time as a Software Engineer at [Apollo International](https://www.apollointl.com.au)
 - studying Master of Data Science at [Macquarie University](https://www.mq.edu.au/)
 
-![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true&theme=dark)
-![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html,css&layout=compact&hide_border=true&langs_count=8&theme=dark)
-![Ahad's GitHub trophies](https://github-profile-trophy.vercel.app/?username=maacpiash&no-bg=true&row=2&col=3)
+![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&show_icons=true)
+![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html,css&layout=compact&hide_border=true&langs_count=8&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&show_icons=truee=dark)
 
 ## 🧠 Skills
 
