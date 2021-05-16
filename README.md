@@ -51,28 +51,9 @@ I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — currentl
 
 ## ⚡ Current activities
 
-### 👨🏽‍💻 Working on
-
-- [`maacpiash/KonSchool`](https://github.com/maacpiash/KonSchool)
-  - Add school-information page to the client app
-  - Add `localStorage` functionalities to the client app
-  - Add l10n to the client app
-  - Add support for MessagePack and GraphQL to the Schools API
-- [`sadiagroup/website`](https://github.com/sadiagroup/website)
-  - Fix linting and formatting
-  - Add tests and coverage
-- [`maacpiash/back-to-the-basics`](https://github.com/maacpiash/back-to-the-basics)
-  - Just experimenting 🤷🏽‍♂️
-
-### 📖 Reading
-
-- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.au/dp/0132350882) by Robert C. Martin
-- [The Rules of Thinking: A personal code to think yourself smarter, wiser and happier](https://www.amazon.com.au/dp/1292263806) by Richard Templar
-
-### 💭 Learning
-
-- [Kubernetes](https://github.com/kubernetes/kubernetes)
-- [nginx](https://github.com/nginx/nginx)
+- 👨🏽‍💻 Working on [`maacpiash/KonSchool`](https://github.com/maacpiash/KonSchool), [`sadiagroup/website`](https://github.com/sadiagroup/website), and [`maacpiash/back-to-the-basics`](https://github.com/maacpiash/back-to-the-basics).
+- 📖 Reading [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.au/dp/0132350882) by Robert C. Martin, and [The Rules of Thinking: A personal code to think yourself smarter, wiser and happier](https://www.amazon.com.au/dp/1292263806) by Richard Templar.
+- 💭 Learning [Kubernetes](https://github.com/kubernetes/kubernetes) and [nginx](https://github.com/nginx/nginx).
 
 ## 🕚 Previously…
 
