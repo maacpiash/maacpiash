@@ -21,9 +21,9 @@ I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — currentl
 
 ### Core
 
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/dotnet)
-[![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/nodejs)
-[![Python](https://img.shields.io/badge/Python-004880?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python)
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge)](https://github.com/dotnet)
+[![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)](https://github.com/nodejs)
+[![Python](https://img.shields.io/badge/Python-004880?style=for-the-badge)](https://github.com/python)
 
 ### Specifics
 
