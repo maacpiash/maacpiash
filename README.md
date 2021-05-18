@@ -9,7 +9,7 @@
 [![Blog](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode)](https://blog.maacpiash.com)
 [![Photos](https://img.shields.io/badge/photos-0063DC.svg?&style=for-the-badge&logo=flickr&logoColor=white)](https://www.flickr.com/photos/maacpiash/)
 
-I am **Ahad Chowdhury**, originally from Dhaka, Bangladesh 🇧🇩 — currently living in Sydney, Australia 🇦🇺
+I am **Ahad Chowdhury**, originally from Dhaka 🇧🇩 — currently living in Sydney 🇦🇺
 
 - working part-time as a Software Engineer at [Apollo International](https://www.apollointl.com.au)
 - studying Master of Data Science at [Macquarie University](https://www.mq.edu.au/)
