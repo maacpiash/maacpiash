@@ -58,7 +58,7 @@ I am **Ahad Chowdhury**, originally from Dhaka 🇧🇩 — currently living in 
 - 📖 Reading [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.au/dp/0132350882) by Robert C. Martin, and [The Rules of Thinking: A personal code to think yourself smarter, wiser and happier](https://www.amazon.com.au/dp/1292263806) by Richard Templar.
 - 💭 Learning [Kubernetes](https://github.com/kubernetes/kubernetes) and [nginx](https://github.com/nginx/nginx).
 
-## 🕚 Previously…
+## ⏪️ Previously…
 
 - **🏢 Feb 2019 - Jan 2020**: Worked full-time as a **Junior Software Engineer** at [**Dynamic Solution Innovators Ltd.**](http://dsinnovators.com), Dhaka. Projects I worked on are the [OpenCRVS](https://github.com/opencrvs/opencrvs-core) project and the enterprise solution of [Olwel](https://olwel.com), both are full-stack web applications developed with [React](https://github.com/facebook/react) and [Hapi](https://github.com/hapijs/hapi).
 - **💻 Nov 2016 - Apr 2018**: Worked part-time as a **Research Assistant** at [**DESM, North South University**](http://www.northsouth.edu/academic/shls/esm/), Dhaka, on a research project ([relevant news article](http://www.ipsnews.net/2017/05/flying-green-in-bangladesh/)). Used [Windows Forms](https://github.com/dotnet/winforms) to develop the client-side software of *NODES*, an airline management system.
