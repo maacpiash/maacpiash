@@ -34,7 +34,7 @@ I am **Ahad Chowdhury**, originally from Dhaka 🇧🇩 — currently living in 
 
 ## ⚡ Current activities
 
-- 👨🏽‍💻 Working on [`maacpiash/KonSchool`](https://github.com/maacpiash/KonSchool), [`sadiagroup/website`](https://github.com/sadiagroup/website), and [`maacpiash/back-to-the-basics`](https://github.com/maacpiash/back-to-the-basics).
+- 👨🏽‍💻 Working on [`KonSchool`](https://github.com/maacpiash/KonSchool), [`Winston`](https://github.com/maacpiash/Winston), and [`node-es-features`](https://github.com/maacpiash/node-es-features).
 - 📖 Reading [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.au/dp/0132350882) by Robert C. Martin, and [The Rules of Thinking: A personal code to think yourself smarter, wiser and happier](https://www.amazon.com.au/dp/1292263806) by Richard Templar.
 - 💭 Learning [Kubernetes](https://github.com/kubernetes/kubernetes) and [nginx](https://github.com/nginx/nginx).
 
