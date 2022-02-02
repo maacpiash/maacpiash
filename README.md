@@ -15,6 +15,7 @@ I am **Ahad Chowdhury**, originally from Dhaka 🇧🇩 — currently living in 
 
 ![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&show_icons=true)
 ![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html,css&layout=compact&hide_border=true&langs_count=8&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&show_icons=truee=dark)
+![Ahad's contribution graph](https://activity-graph.herokuapp.com/graph?username=maacpiash&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true)
 
 ## 🧠 Skills
 
