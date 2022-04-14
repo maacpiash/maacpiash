@@ -41,7 +41,7 @@ I am **Ahad Chowdhury**, originally from Dhaka 🇧🇩 — currently living in 
 
 ## ⏪️ Previously…
 
-- **🏢 Feb 2019 - Jan 2020**: Worked full-time as a **Junior Software Engineer** at [**Dynamic Solution Innovators Ltd.**](http://dsinnovators.com), Dhaka. Projects I worked on are the [OpenCRVS](https://github.com/opencrvs/opencrvs-core) project and the enterprise solution of [Olwel](https://olwel.com), both are full-stack web applications developed with [React](https://github.com/facebook/react) and [Hapi](https://github.com/hapijs/hapi).
+- **🏢 Feb 2019 - Jan 2020**: Worked full-time as a **Junior Software Engineer** at [**Dynamic Solution Innovators Ltd.**](http://dsinnovators.com), Dhaka. Projects I worked on are the [OpenCRVS](https://github.com/opencrvs/opencrvs-core) project ([my commits](https://github.com/opencrvs/opencrvs-core/commits?author=maacpiash)) and the [enterprise solution](http://dsinnovators.com/olwel.html) of [Olwel](https://olwel.com). Both are full-stack web applications developed with [React](https://github.com/facebook/react) and [Hapi](https://github.com/hapijs/hapi).
 - **💻 Nov 2016 - Apr 2018**: Worked part-time as a **Research Assistant** at [**DESM, North South University**](http://www.northsouth.edu/academic/shls/esm/), Dhaka, on a research project ([relevant news article](http://www.ipsnews.net/2017/05/flying-green-in-bangladesh/)). Used [Windows Forms](https://github.com/dotnet/winforms) to develop the client-side software of *NODES*, an airline management system.
 - **🎒 Jan 2014 - Aug 2018**: Studied **Computer Science and Engineering** at [**North South University**](http://www.northsouth.edu), Dhaka, and got a **Bachelor of Science** degree.
 
