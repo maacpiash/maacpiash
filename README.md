@@ -15,7 +15,7 @@ I am **Ahad Chowdhury**, originally from Dhaka 🇧🇩 — currently living in 
 
 _(Excluding Jupyter Notebook, HTML, CSS, and TeX)_
 
-![Ahad's contribution graph](https://activity-graph.herokuapp.com/graph?username=maacpiash&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&custom_title=Contribution%20Graph)
+![Ahad's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=maacpiash&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&custom_title=Contribution%20Graph)
 
 ## 🧠 Skills
 
