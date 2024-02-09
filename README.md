@@ -8,7 +8,7 @@
 [![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget)](https://www.nuget.org/profiles/maacpiash)
 [![Docker Hub](https://img.shields.io/badge/Hub-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/maacpiash)
 
-I am **Ahad Chowdhury**, originally from Dhaka 🇧🇩 — currently living in Sydney 🇦🇺 studying Master of Data Science at [Western Sydney University](https://www.westernsydney.edu.au/).
+I am **Ahad Chowdhury**, originally from Dhaka 🇧🇩 — currently living in Sydney 🇦🇺 studying Master of Data Science at [Sydney Polytechnic Institute](https://spi.nsw.edu.au).
 
 ![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&show_icons=true&custom_title=Overall%20Stats)
 ![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html,css,tex&layout=compact&hide_border=true&langs_count=8&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&show_icons=true&custom_title=Most%20Used%20Programming%20Languages)
