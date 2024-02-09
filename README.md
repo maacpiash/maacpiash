@@ -37,7 +37,7 @@ _(Excluding Jupyter Notebook, HTML, CSS, and TeX)_
 
 - 👨🏽‍💻 Working on [`KonSchool`](https://github.com/maacpiash/KonSchool), and [`minimal-api-jwt-auth`](https://github.com/maacpiash/minimal-api-jwt-auth).
 - 📖 Reading [23 Things They Don't Tell You About Capitalism](https://www.amazon.com.au/dp/0141047976) by Ha-Joon Chang.
-- 💭 Learning about [.NET microservices](https://docs.microsoft.com/en-us/dotnet/architecture/microservices).
+- 💭 Learning about modular monoliths, domain driven design, vertical slices architecture, and clean architecture.
 
 ## ⏪️ Previously…
 
