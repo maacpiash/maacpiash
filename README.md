@@ -10,12 +10,12 @@
 
 I am **Ahad Chowdhury**, originally from Dhaka 🇧🇩 — currently living in Sydney 🇦🇺
 
-![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&show_icons=true&custom_title=Overall%20Stats)
-![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html,css,tex&layout=compact&hide_border=true&langs_count=8&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&show_icons=true&custom_title=Most%20Used%20Programming%20Languages)
+ ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maacpiash&theme=transparent)
+ 
+![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true&theme=transparent&count_private=true&custom_title=Overall%20Stats)
+![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html,css,tex&layout=compact&hide_border=true&theme=transparent&langs_count=8&show_icons=true&custom_title=Programming%20Languages)
 
-_(Excluding Jupyter Notebook, HTML, CSS, and TeX)_
-
-![Ahad's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=maacpiash&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&custom_title=Contribution%20Graph)
+_(Excluding Jupyter Notebook, HTML, CSS, and LaTeX)_
 
 ## 🧠 Skills
 
