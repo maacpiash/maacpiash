@@ -2,7 +2,7 @@
 
 > (means *welcome* in Bengali)
 
-[![Website](https://img.shields.io/badge/website-663399.svg?&style=for-the-badge&logo=gatsby)](https://www.maacpiash.com)
+[![Website](https://img.shields.io/badge/website-BC52EE.svg?&style=for-the-badge&logo=astro&logoColor=white)](https://www.maacpiash.com)
 [![Repositories](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github)](https://github.com/maacpiash?tab=repositories)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~maacpiash)
 [![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget)](https://www.nuget.org/profiles/maacpiash)
@@ -58,11 +58,9 @@ I know the value of pi (π) up to 60 decimal places. I also know the names and t
 
 I am [`@maacpiash`](https://maacpia.sh) (almost) everywhere!
 
-[![E-Mail](https://img.shields.io/badge/Email-00A95C?style=for-the-badge&logo=linode&logoColor=white)](mailto:github@maacpiash.com)
-[![Follow on Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maacpiash)
-[![View Instagram](https://img.shields.io/badge/view-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maacpiash)
+[![E-mail](https://img.shields.io/badge/Email-00A95C?style=for-the-badge&logo=akamai&logoColor=white)](mailto:github@maacpiash.com)
+[![Follow on Twitter/X](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/maacpiash)
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-0077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maacpiash)
-[![Chat on Skype](https://img.shields.io/badge/chat-00AFF0.svg?&style=for-the-badge&logo=skype-for-business&logoColor=white)](https://join.skype.com/invite/UVzqFuCFERPh)
 [![Chat on Telegram](https://img.shields.io/badge/message-3CB5F0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maacpiash)
 
 ## ❤️ Support my open source projects
