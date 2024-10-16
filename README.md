@@ -8,7 +8,7 @@
 [![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget)](https://www.nuget.org/profiles/maacpiash)
 [![Docker Hub](https://img.shields.io/badge/Hub-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/maacpiash)
 
-I am **Ahad Chowdhury**, originally from Dhaka 🇧🇩 — currently living in Sydney 🇦🇺 studying Master of Data Science at [Sydney Polytechnic Institute](https://spi.nsw.edu.au).
+I am **Ahad Chowdhury**, originally from Dhaka 🇧🇩 — currently living in Sydney 🇦🇺
 
 ![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maacpiash&show_icons=true&hide_border=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&show_icons=true&custom_title=Overall%20Stats)
 ![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maacpiash&hide=jupyter%20notebook,html,css,tex&layout=compact&hide_border=true&langs_count=8&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&show_icons=true&custom_title=Most%20Used%20Programming%20Languages)
@@ -35,15 +35,16 @@ _(Excluding Jupyter Notebook, HTML, CSS, and TeX)_
 
 ## ⚡ Current activities
 
-- 👨🏽‍💻 Working on [`KonSchool`](https://github.com/maacpiash/KonSchool), and [`minimal-api-jwt-auth`](https://github.com/maacpiash/minimal-api-jwt-auth).
-- 📖 Reading [23 Things They Don't Tell You About Capitalism](https://www.amazon.com.au/dp/0141047976) by Ha-Joon Chang.
-- 💭 Learning about modular monoliths, domain driven design, vertical slices architecture, and clean architecture.
+- 👨🏽‍💻 Working on [`KonSchool`](https://github.com/maacpiash/KonSchool), [`uds-dotnet-bun`](https://github.com/maacpiash/uds-dotnet-bun), and [`minimal-api-jwt-auth`](https://github.com/maacpiash/minimal-api-jwt-auth).
+- 📖 Reading [Hello World: How to be Human in the Age of the Machine](https://www.goodreads.com/book/show/39312982-hello-world) by Hannah Fry.
+- 💭 Learning about AWS, modular monoliths, domain driven design, vertical slices architecture, and clean architecture.
 
 ## ⏪️ Previously…
 
-- **🖥️ Apr 2021 - Jul 2022**: Worked part-time as a **Software Engineer** at [**Apollo International**](https://www.apollointl.com.au). Developed a CRM software, to be used by the staff members of the company, from scratch. Developed the frontend using [Next.js](https://github.com/vercel/next.js), backend using [ASP.NET Core](https://github.com/dotnet/aspnetcore), with [PostgreSQL](https://github.com/postgres/postgres) as database (with [Entity Framework Core](https://github.com/dotnet/ef6) as ORM) and [Redis](https://github.com/redis/redis) for in-memory storage.
-- **🏢 Feb 2019 - Jan 2020**: Worked full-time as a **Junior Software Engineer** at [**Dynamic Solution Innovators Ltd.**](http://dsinnovators.com), Dhaka. Projects I worked on are the [OpenCRVS](https://github.com/opencrvs/opencrvs-core) project ([my commits](https://github.com/opencrvs/opencrvs-core/commits?author=maacpiash)) and the [enterprise solution](http://dsinnovators.com/olwel.html) of [Olwel](https://olwel.com). Both are full-stack web applications developed with [React](https://github.com/facebook/react) and [Hapi](https://github.com/hapijs/hapi).
-- **💻 Nov 2016 - Apr 2018**: Worked part-time as a **Research Assistant** at [**DESM, North South University**](http://www.northsouth.edu/academic/shls/esm/), Dhaka, on a research project ([relevant news article](http://www.ipsnews.net/2017/05/flying-green-in-bangladesh/)). Used [Windows Forms](https://github.com/dotnet/winforms) to develop the client-side software of *NODES*, an airline management system.
+- **📚 Aug 2023 - Sep 2024**: Studied data science at [**Sydney Polytechnic Institute**](https://spi.nsw.edu.au), Sydney, Australia and got a **Master of Data Science** degree.
+- **🖥️ Apr 2021 - May 2022**: Worked part-time as a **Software Engineer** at [**Apollo International**](https://www.apollointl.com.au). Developed a CRM software, to be used by the staff members of the company, from scratch. Developed the frontend using [Next.js](https://github.com/vercel/next.js), backend using [ASP.NET Core](https://github.com/dotnet/aspnetcore), with [PostgreSQL](https://github.com/postgres/postgres) as database (with [Entity Framework Core](https://github.com/dotnet/ef6) as ORM) and [Redis](https://github.com/redis/redis) for in-memory storage.
+- **🏢 Feb 2019 - Jan 2020**: Worked full-time as a **Junior Software Engineer** at [**Dynamic Solution Innovators Ltd.**](https://dsinnovators.com), Dhaka. Projects I worked on are the [OpenCRVS](https://github.com/opencrvs/opencrvs-core) project ([my commits](https://github.com/opencrvs/opencrvs-core/commits?author=maacpiash)) and the [enterprise solution](https://dsinnovators.com/olwel.html) of [Olwel](https://olwel.com). Both are full-stack web applications developed with [React](https://github.com/facebook/react) and [Hapi](https://github.com/hapijs/hapi).
+- **💻 Nov 2016 - Apr 2018**: Worked part-time as a **Research Assistant** at [**DESM, North South University**](https://www.northsouth.edu/academic/shls/esm/), Dhaka, on a research project ([relevant news article](http://www.ipsnews.net/2017/05/flying-green-in-bangladesh/)). Used [Windows Forms](https://github.com/dotnet/winforms) to develop the client-side software of *NODES*, an airline management system.
 - **🎒 Jan 2014 - Aug 2018**: Studied **Computer Science and Engineering** at [**North South University**](http://www.northsouth.edu), Dhaka, and got a **Bachelor of Science** degree.
 
 For more details, please view my resume at [pia.sh/resume](https://pia.sh/resume).
