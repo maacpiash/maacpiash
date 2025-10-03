@@ -8,7 +8,7 @@
 [![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget)](https://www.nuget.org/profiles/maacpiash)
 [![Docker Hub](https://img.shields.io/badge/Hub-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/maacpiash)
 
-I am **Ahad Chowdhury**, originally from Dhaka 🇧🇩 — currently living in Sydney 🇦🇺
+I am **Ahad Chowdhury**, originally from Dhaka 🇧🇩 — currently living in Sydney 🇦🇺 working as a Senior Software Engineer at [Commonwealth Bank](https://www.commbank.com.au).
 
  ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maacpiash&theme=transparent)
  
